@@ -1,0 +1,25 @@
+/**
+ * CSS
+ * ICT-133_JBR - Exercice_PHP-Arrays-Strings.php
+ * User: Jan.BLATTER
+ * Date: 25.11.2019
+ */
+.td_bleu{
+    background-color:#558BC5;
+}
+
+.td_blanc{
+    background-color:white;
+}
+
+tr, td{
+    border:1px solid black;
+
+}
+
+.tableau {
+    width: 80%;
+    text-align: right;
+    height: 15px;
+
+}
